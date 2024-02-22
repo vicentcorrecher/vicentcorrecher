@@ -48,7 +48,7 @@
         <li>Machine learning, Deep learning, Reinforcement learning, Computer vision, Natural language processing (NLP), Cloud computing</li>
       </ul>
     <h3>¿Quieres Colaborar?</h3>
-    <p>¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si estás interesado en trabajar juntos o simplemente deseas conectarte, ¡no dudes en contactarme a través de <a href="enlace-de-tu-linkedin">LinkedIn</a>!</p>
+    <p>¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si estás interesado en trabajar juntos o simplemente deseas conectarte, ¡no dudes en contactarme a través de <a href="https://www.linkedin.com/in/vicentmc/">LinkedIn</a>!</p>
     <p>¡Únete a la revolución de los datos! 🚀</p>
 
 # 📊 GitHub Stats:
