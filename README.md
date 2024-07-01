@@ -32,13 +32,13 @@
     <li>Creación de aplicaciones de negocio - Power Apps</li>
 </ul>
 
-<h4>Coordinador de eventos en Economia DataTech</h4>
+<h4>Event Manager en Economia DataTech</h4>
 <div style="text-align: center;">
     <img src="Datatech Logotipo Negativo.jpg" alt="Volkswagen Group Logo" style="width: 100px;">
 </div>
 <ul>
     <li>Valencia/València, Comunidad Valenciana, España</li>
-    <li>Dirección, organización y gestión de eventos relacionados con datos, IA y nuevas tecnologías</li>
+    <li>Dirección, organización y gestión de eventos relacionados con datos, IA y nuevas tecnologías en la Universitat de València</li>
 </ul>
     <h3> 📚 Investigación y estudios Actuales</h3>
      <h4>Master of Science - MS, Advanced and Applied Artificial Intelligence en Universitat de València</h4>
