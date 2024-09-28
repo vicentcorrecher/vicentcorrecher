@@ -1,6 +1,5 @@
-<br />
 <p align="center">
-  <code><h1 align="center">print("<span style="color:blue;">Hello World</span> ")</code>  ...soy Vicent Muñoz! 👋</h1>
+  <code><h1 align="center">print("<span style="color:blue;">Hello World</span> ")</code>...   soy Vicent Muñoz! 👋</h1>
   <h3 align="center">BI & AI | DataOps</h3>
   ¡Bienvenido a mi portfolio de GitHub! 
   Aquí encontrarás un resumen de mi trayectoria, proyectos destacados (o no porque soy un desastre con estas cosas... 😆) y cómo ponerte en contacto conmigo.
